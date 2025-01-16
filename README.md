@@ -68,7 +68,7 @@ API_SECRET
 1. 克隆项目代码：
    ```bash
    git clone https://github.com/Xmind0/speech_recognition_demo.git
-   cd qt-speech-recognition
+   cd speech_recognition_demo
    ```
 
 2. 使用 Qt Creator 打开项目：
