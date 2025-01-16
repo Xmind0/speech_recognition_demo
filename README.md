@@ -4,7 +4,8 @@
 
 [![Qt](https://img.shields.io/badge/Qt-6.5.2+-41CD52?style=flat-square&logo=qt&logoColor=white)](https://www.qt.io/)
 [![Platform](https://img.shields.io/badge/平台-Windows%20|%20Linux%20|%20macOS-blue?style=flat-square)](https://www.qt.io/download)
-[![License](https://img.shields.io/badge/开源协议-MIT-yellow.svg?style=flat-square)](LICENSE)
+
+[![主页](https://github.com/Xmind0/speech_recognition_demo/blob/master/Screenshot%20from%202025-01-16%2023-21-22.png)](LICENSE)
 
 一个基于 Qt 6 和科大讯飞语音识别 API 的实时语音识别演示程序
 
