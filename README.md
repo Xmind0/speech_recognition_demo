@@ -4,10 +4,10 @@
 
 [![Qt](https://img.shields.io/badge/Qt-6.5.2+-41CD52?style=flat-square&logo=qt&logoColor=white)](https://www.qt.io/)
 [![Platform](https://img.shields.io/badge/平台-Windows%20|%20Linux%20|%20macOS-blue?style=flat-square)](https://www.qt.io/download)
+一个基于 Qt 6 和科大讯飞语音识别 API 的实时语音识别演示程序
+
 
 [![主页](https://github.com/Xmind0/speech_recognition_demo/blob/master/Screenshot%20from%202025-01-16%2023-21-22.png)](LICENSE)
-
-一个基于 Qt 6 和科大讯飞语音识别 API 的实时语音识别演示程序
 
 </div>
 
@@ -66,7 +66,7 @@ API_SECRET
 
 1. 克隆项目代码：
    ```bash
-   git clone https://github.com/yourusername/qt-speech-recognition.git
+   git clone https://github.com/Xmind0/speech_recognition_demo.git
    cd qt-speech-recognition
    ```
 
@@ -137,26 +137,13 @@ API_SECRET
    - 说话清晰、语速适中
    - 检查音频输入质量
 
-## 📝 开源协议
-
-本项目采用 MIT 开源协议 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
 ## 📚 参考资源
 
 ### 相关文档
 - [科大讯飞开放平台文档](https://www.xfyun.cn/doc/asr/voicedictation/API.html)
-- [Qt 官方文档](https://doc.qt.io/)
+
 
 ### 技术支持
 - API 相关问题：[科大讯飞支持中心](https://www.xfyun.cn/support)
-- Qt 相关问题：[Qt 论坛](https://forum.qt.io/)
 
----
-
-<div align="center">
-
-使用 Qt 和科大讯飞 API 用 ❤️ 制作
-
-[报告问题](https://github.com/yourusername/qt-speech-recognition/issues) · [功能建议](https://github.com/yourusername/qt-speech-recognition/issues)
-
-</div>
