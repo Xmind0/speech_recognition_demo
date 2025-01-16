@@ -4,6 +4,7 @@
 
 [![Qt](https://img.shields.io/badge/Qt-6.5.2+-41CD52?style=flat-square&logo=qt&logoColor=white)](https://www.qt.io/)
 [![Platform](https://img.shields.io/badge/平台-Windows%20|%20Linux%20|%20macOS-blue?style=flat-square)](https://www.qt.io/download)
+
 一个基于 Qt 6 和科大讯飞语音识别 API 的实时语音识别演示程序
 
 
