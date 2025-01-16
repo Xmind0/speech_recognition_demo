@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/speech_recognition/">
+    <file alias="Main.qml">/home/hcy/QT_pro/speech_recognition/Main.qml</file>
+    <file alias="resources.qrc">/home/hcy/QT_pro/speech_recognition/resources.qrc</file>
+  </qresource>
+</RCC>
+

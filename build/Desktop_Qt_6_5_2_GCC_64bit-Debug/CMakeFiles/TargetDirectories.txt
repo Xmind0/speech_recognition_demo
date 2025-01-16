@@ -1,0 +1,5 @@
+/home/hcy/QT_pro/speech_recognition/build/Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/speech_recognition.dir
+/home/hcy/QT_pro/speech_recognition/build/Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/hcy/QT_pro/speech_recognition/build/Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/hcy/QT_pro/speech_recognition/build/Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/speech_recognition_autogen_timestamp_deps.dir
+/home/hcy/QT_pro/speech_recognition/build/Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/speech_recognition_autogen.dir

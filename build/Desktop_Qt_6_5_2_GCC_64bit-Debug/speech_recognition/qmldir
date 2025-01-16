@@ -1,0 +1,5 @@
+module speech_recognition
+typeinfo appspeech_recognition.qmltypes
+prefer :/qt/qml/speech_recognition/
+Main 1.0 Main.qml
+

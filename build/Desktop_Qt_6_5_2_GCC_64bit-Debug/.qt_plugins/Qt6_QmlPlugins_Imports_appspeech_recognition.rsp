@@ -1,0 +1,14 @@
+-rootPath
+/home/hcy/QT_pro/speech_recognition
+-cmake-output
+-output-file
+/home/hcy/QT_pro/speech_recognition/build/Desktop_Qt_6_5_2_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appspeech_recognition.cmake
+-importPath
+/home/hcy/QT_pro/speech_recognition/build/Desktop_Qt_6_5_2_GCC_64bit-Debug/speech_recognition
+-importPath
+/home/hcy/QT_pro/speech_recognition/build/Desktop_Qt_6_5_2_GCC_64bit-Debug
+-importPath
+/opt/Qt/6.5.2/gcc_64/./qml
+-qrcFiles
+/home/hcy/QT_pro/speech_recognition/build/Desktop_Qt_6_5_2_GCC_64bit-Debug/.rcc/qmake_speech_recognition.qrc
+/home/hcy/QT_pro/speech_recognition/build/Desktop_Qt_6_5_2_GCC_64bit-Debug/.rcc/appspeech_recognition_raw_qml_0.qrc

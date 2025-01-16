@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/speech_recognition">
+    <file alias="qmldir">/home/hcy/QT_pro/speech_recognition/build/Desktop_Qt_6_5_2_GCC_64bit-Debug/speech_recognition/qmldir</file>
+  </qresource>
+</RCC>
+
